@@ -13,8 +13,7 @@ This project has been deployed on netlify.com .
 Click the following link to run the page in your browser.
 
 ```bash
-  https://hopeful-kare-aaa501.netlify.app/
-```
+https://affectionate-perlman-2f2f14.netlify.app/```
 
   
 ## Authors
